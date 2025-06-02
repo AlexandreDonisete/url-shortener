@@ -1,7 +1,7 @@
 # Encurtador de URL
 
 # Sobre o projeto
-Aplicação web desenvolvida com Spring Boot que permite encurtar URLs longas, facilitando o compartilhamento e o rastreamento de links. Utiliza banco de dados em memória (H2) para armazenar os redirecionamentos e oferece uma interface simples e funcional para geração e consulta dos links encurtados.
+API web desenvolvida com Spring Boot que permite encurtar URLs longas.
 
 # Tecnologias utilizadas
 - Java

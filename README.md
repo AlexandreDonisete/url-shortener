@@ -1,7 +1,8 @@
 # Encurtador de URL
 
 # Sobre o projeto
-API web desenvolvida com Spring Boot que permite encurtar URLs longas.
+API web desenvolvida com auxílio  com Spring Boot que permite encurtar URLs longas.
+O desenvolvimento foi realizado acompanhando, analisando e estudando os vídeos do professor [Matheus Leandro Ferreira](https://www.youtube.com/@matheuslf), que serviram como base conceitual e prática para a implementação da solução.
 
 # Tecnologias utilizadas
 - Java
